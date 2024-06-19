@@ -13,10 +13,10 @@
 <a href="https://www.linkedin.com/in/marek-a-kwasnica/" target="_blank"><img style="height:24px; margin-bottom: 0px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
 
  
-<img align="left" img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-<img align="left" img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"/>
+<img align="left" img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
+<img align="left" img src="https://img.icons8.com/?size=50&id=CLvQeiwFpit4&format=png&color=000000"/>
 <img align="left" img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-<img align="left" img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000"/>
+<img align="left" img src="https://img.icons8.com/?size=50&id=rgPSE6nAB766&format=png&color=000000"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img align="left" img src="https://img.icons8.com/?size=100&id=20774&format=png&color=000000"/>
-<img align="left" img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000">
+<img align="left" img src="https://img.icons8.com/?size=50&id=20774&format=png&color=000000"/>
+<img align="left" img src="https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png&color=000000">
