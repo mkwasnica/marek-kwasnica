@@ -6,7 +6,7 @@
 
 * 📈 I'm Marek, a data analyst passionate about data science and it's potential for advancing on biotechnology, healthcare, and climate action.
 * 🦿 Before becoming a data analyst I worked in medical research as a research assitant and study coordinator.
-* 🪶 When I'm not coding I enjoy boardgames, bird-watching, and hiking. 
+* 🪶 When I'm not working I enjoy boardgames, bird-watching, and hiking. 
 * **Currently** I'm an Data Analyst II for Applied Analytics at [Aclima](https://www.aclima.io/)
 
 **If you'd like to reach me send me a message on LinkedIn:**
